@@ -174,11 +174,6 @@ NetX Scanner PRO is a Python-based advanced port scanning tool that identifies o
 - 🧪 Research projects
 - 🧑‍💻 Freelance opportunities
 
----
-
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
